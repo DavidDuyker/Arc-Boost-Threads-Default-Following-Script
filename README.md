@@ -14,3 +14,6 @@ Paste the code in the snippet.js file.
 Refresh the page.
 
 Enjoy!
+
+## Arc Browser
+Link to Arc Browser Download: https://arc.net/
