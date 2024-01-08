@@ -1,4 +1,4 @@
-# Arc-Boost-Threads-Script
+# Arc-Boost-Threads-Default-Following-Script
 Threads will periodically set your feed to the "for you" feed as engagement bait. The different feeds do not have separate URLs to make it particularly difficult to choose your own default with a bookmark. This code will check if you have been automatically returned to the "for you" feed and return you to "following" as the default.
 
 ## How to use with ARC browser boost
