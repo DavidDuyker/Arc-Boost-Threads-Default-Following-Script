@@ -1,6 +1,6 @@
 window.addEventListener('load', function() {
     var checkInterval = setInterval(function() {
-        let buttons = document.querySelectorAll('button, [role="button"]');
+        let buttons = document.querySelectorAll('a, [role="link"]');
 
         let foundButton = Array.from(buttons).find(button => button.textContent.trim() === "Following");
 
